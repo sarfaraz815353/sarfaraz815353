@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad sarfaraz.
-- 👀 I’m interested in skill development.
-- 🌱 I’m currently learning Python,MySQL,Basic DSA
-- 💞️ I have an experience of 4.5 year in manufacturing sector as QA associate
-- 📫 Reach me at GSM no - 91 6396014151 & at email-Id sarfaraz815353@gmail.com
+- 👀 I am a certified java full-stack engineer(Trainee) at Palle technology,Bangalore
+- 🌱 Core java(Collection,exception,basics) Advance Java(J2EE,JDBC,SERVLET,JSP,HIBERNATE,SPRING), MYSQL,BOOTSTRAP
+- 💞️ Project done on User management system using JSP,SERVLET,JDBC
+- 📫 Currently I am staying in Bangalore,Reach me at GSM no - 91 6396014151 & at email-Id sarfaraz815353@gmail.com
