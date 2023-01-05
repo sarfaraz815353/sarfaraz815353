@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mohammad sarfaraz.
 - 👀 I am a certified java full-stack engineer(Trainee) at Palle technology,Bangalore
 - 🌱 Core java(Collection,exception,basics) Advance Java(J2EE,JDBC,SERVLET,JSP,HIBERNATE,SPRING), MYSQL,BOOTSTRAP
-- 💞️ Project done on User management system using JSP,SERVLET,JDBC
+- 💞️ Project done on User management system using JSP,SERVLET,JDBC with MVC design pattern.
 - 📫 Currently I am staying in Bangalore,Reach me at GSM no - 91 6396014151 & at email-Id sarfaraz815353@gmail.com
+- Linkedln address - https://www.linkedin.com/in/mohammadsarfaraz/.
